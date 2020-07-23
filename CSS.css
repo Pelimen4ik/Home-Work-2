@@ -25,6 +25,15 @@ td {
     vertical-align: top;
 }
 
+.sun-top-left {
+    border-top-left-radius: 20px;
+}
+
+.sat-top-right {
+    border-style: none;
+    border-top-right-radius: 20px;
+}
+
 .number {
     display: block;
     margin-bottom: 10px;
@@ -57,22 +66,17 @@ td {
     margin-left: -20px;
 }
 
-.mornin-middle1 {
+.mornin-middle {
     background-color: aquamarine;
-    margin-right: -20px;
-    margin-left: -20px;
-}
-
-.mornin-middle2 {
-    background-color: aquamarine;
-    margin-right: -20px;
-    margin-left: -20px;
+    margin-right: -05px;
+    margin-left: -30px;
+    text-align: right;
 }
 
 .mornin-end {
     background-color: aquamarine;
     margin-right: 0px;
-    margin-left: -20px;
+    margin-left: -250px;
 }
 
 .event-end {
@@ -95,33 +99,17 @@ td {
 .workshop-start {
     background-color: aquamarine;
     border-radius: 10px;
-    text-align: right;
-    margin-right: -40px;
+    text-align: center;
+    margin-right: -220px;
     margin-left: -5px;
 }
 
-.workshop-end {
-    background-color: aquamarine;
-    border-radius: 10px;
-    text-align: center;
-    margin-right: -5px;
-    margin-left: -20px;
-}
-
-.vacation-start {
+.vacation {
     background-color: plum;
     border-radius: 10px;
-    text-align: right;
-    margin-right: -40px;
+    text-align: center;
+    margin-right: -220px;
     margin-left: -5px;
-}
-
-.vacation-end {
-    background-color: plum;
-    border-radius: 10px;
-    text-align: center;
-    margin-right: -5px;
-    margin-left: -20px;
 }
 
 .brunch {
