@@ -50,6 +50,24 @@ td {
     text-align: center;
 }
 
+.test-single {
+    background-color: palevioletred;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.interview-single {
+    background-color: #ff9999;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.brunch-single {
+    background-color: aqua;
+    border-radius: 10px;
+    text-align: center;
+}
+
 .event-start {
     background-color: #85d6ff;
     margin-right: -15px;
@@ -63,14 +81,13 @@ td {
 .event-middle {
     background-color: #85d6ff;
     margin-right: -20px;
-    margin-left: -20px;
+    margin-left: -30px;
 }
 
 .mornin-middle {
     background-color: aquamarine;
-    margin-right: -05px;
+    margin-right: -5px;
     margin-left: -30px;
-    text-align: right;
 }
 
 .mornin-end {
@@ -84,19 +101,7 @@ td {
     margin-left: -20px;
 }
 
-.test-single {
-    background-color: palevioletred;
-    border-radius: 10px;
-    text-align: center;
-}
-
-.interview {
-    background-color: #ff9999;
-    border-radius: 10px;
-    text-align: center;
-}
-
-.workshop-start {
+.workshop {
     background-color: aquamarine;
     border-radius: 10px;
     text-align: center;
@@ -110,12 +115,6 @@ td {
     text-align: center;
     margin-right: -220px;
     margin-left: -5px;
-}
-
-.brunch {
-    background-color: aqua;
-    border-radius: 10px;
-    text-align: center;
 }
 
 .event {
